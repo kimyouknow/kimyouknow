@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Yunho
+As a beginner, I'm lerning all stuffs of frontend.
 
-<!--
-**kimyouknow/kimyouknow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Web Developer
 
-Here are some ideas to get you started:
+* 경희대학교 경영학과 재학중...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+## Interests
+* JS
+* React
+* TypeScript
+* html/css
+* nodeJS
+* redux
+
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+kimyouknow@naver.com
