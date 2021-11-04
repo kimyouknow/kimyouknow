@@ -1,9 +1,7 @@
-### Hi, I'm Yunho
-As a beginner, I'm lerning all stuffs of frontend.
+## HI, I'm yunho :)
 
-## Web Developer
-
-* 경희대학교 경영학과 재학중...
+- 👩🏻‍🎓 I am currently majoring in business administration at Kyung Hee University.
+- 🌱 I'm currently studying to become  Front-End Developer.
 
 ## Interests
 * JS
